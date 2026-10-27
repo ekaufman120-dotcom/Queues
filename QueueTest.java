@@ -19,7 +19,7 @@ public class QueueTest<T>
     private static String message;
     private static String methodName;
     private static Class<?> c;
-    private static boolean display = false;  // turns error display messages on or off
+    private static boolean display = true;  // turns error display messages on or off
 
     public static void main(String [] args)
     {
